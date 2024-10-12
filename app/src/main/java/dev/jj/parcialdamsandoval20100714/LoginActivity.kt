@@ -11,7 +11,7 @@ import dev.jj.parcialdamsandoval20100714.R.*
 
 class LoginActivity : AppCompatActivity() {
 
-    private val correctEmail = "admin@smartapp.com"
+    private val correctEmail = "admin@travelapp.com"
     private val correctPassword = "admin123"
 
     override fun onCreate(savedInstanceState: Bundle?) {
